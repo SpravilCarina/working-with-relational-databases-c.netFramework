@@ -1,0 +1,11 @@
+D:\facultate\MTP\laborator4\laborator4\bin\Debug\laborator4.exe.config
+D:\facultate\MTP\laborator4\laborator4\bin\Debug\laborator4.exe
+D:\facultate\MTP\laborator4\laborator4\bin\Debug\laborator4.pdb
+D:\facultate\MTP\laborator4\laborator4\obj\Debug\laborator4.csproj.AssemblyReference.cache
+D:\facultate\MTP\laborator4\laborator4\obj\Debug\laborator4.Form1.resources
+D:\facultate\MTP\laborator4\laborator4\obj\Debug\laborator4.Properties.Resources.resources
+D:\facultate\MTP\laborator4\laborator4\obj\Debug\laborator4.csproj.GenerateResource.cache
+D:\facultate\MTP\laborator4\laborator4\obj\Debug\laborator4.csproj.CoreCompileInputs.cache
+D:\facultate\MTP\laborator4\laborator4\obj\Debug\laborator4.exe
+D:\facultate\MTP\laborator4\laborator4\obj\Debug\laborator4.pdb
+D:\facultate\MTP\laborator4\laborator4\obj\Debug\laborator4.Form2.resources
